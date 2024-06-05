@@ -1,4 +1,4 @@
-# Criando uma pessoa fictícia com características físicas inspiradas em mim utilizando IA
+# Criando uma pessoa fictícia com características físicas inspiradas em mim, utilizando IA Generativa
 
 ## 📒 Descrição
 Este projeto tem como objetivo explorar as tendências das IA's Generativas e suas aplicabilidades, bem como reflexões éticas acerca do uso das mesmas em nossas sociedades. O termo Natty or Not, surgiu através de um hype dentro do universo do fisuculturismo em que atletas que fazem uso ou não de substâncias para melhorar seu ganho de massa são vistos como Natty (natural) ou not Natty (fazem uso destas substâncias). Ou seja, a ideia do projeto utilizar dos artifícios das IA's Generativas para criar algo "Natty", algo que se pareça tão natural ao ponto de se tornar difícil distinguir se é fake ou não.
@@ -39,7 +39,18 @@ Imagem realista de um homem jovem de pele branca, nariz acentuado, cabelos curto
 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A partir dos resultados obtidos nos testes do processo de criação para o personagem fictício inspirado em minhas características físicas. Percebi que a utilização da lingua portuguesa como padrão estava enviesando os resultados, como uma última tentativa, retornei o prompt para inglês e ajustei algumas características. Por fim, cheguei o mais próximo possível do resultado esperado com a utilização do prompt a seguir:
+```
+Realistic image of a young man with white skin, accentuated nose, short straight brown hair, dark eyes and short black beard. The man is happy in a metropolitan city environment.
+```
+E para criação do nome do nosso personagem, carreguei a imagem no chat-GPT e pedi para que me sugerisse um nome brasileiro para o meu personagem.
+Foi assim que surgiu Rafael Costa observado nas imagens a seguir
+
+![ultimo-teste4](https://github.com/LeoCeretta/lab-natty-or-not/assets/74743013/04598af0-48e7-47a0-9d2a-cac16513bdcf)
+![ultimo-teste3](https://github.com/LeoCeretta/lab-natty-or-not/assets/74743013/e81b30ec-ced6-4542-b0be-bdd679a8e30f)
+![ultimo-teste2](https://github.com/LeoCeretta/lab-natty-or-not/assets/74743013/b5bed423-be5f-4b75-81b2-11df7bdca1f7)
+![ultimo-teste](https://github.com/LeoCeretta/lab-natty-or-not/assets/74743013/dde2e37a-331b-47e6-a5d8-979bc76e9145)
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
