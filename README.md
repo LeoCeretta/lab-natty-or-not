@@ -43,7 +43,7 @@ A partir dos resultados obtidos nos testes do processo de criação para o perso
 ```
 Realistic image of a young man with white skin, accentuated nose, short straight brown hair, dark eyes and short black beard. The man is happy in a metropolitan city environment.
 ```
-E para criação do nome do nosso personagem, carreguei a imagem no chat-GPT e pedi para que me sugerisse um nome brasileiro para o meu personagem.
+Para criação do nome do nosso personagem, carreguei as imagens dos resultados finais obtidos no chat-GPT e pedi para que me sugerisse um nome brasileiro para o meu personagem.
 Foi assim que surgiu Rafael Costa observado nas imagens a seguir
 
 ![ultimo-teste4](https://github.com/LeoCeretta/lab-natty-or-not/assets/74743013/04598af0-48e7-47a0-9d2a-cac16513bdcf)
@@ -52,5 +52,17 @@ Foi assim que surgiu Rafael Costa observado nas imagens a seguir
 ![ultimo-teste](https://github.com/LeoCeretta/lab-natty-or-not/assets/74743013/dde2e37a-331b-47e6-a5d8-979bc76e9145)
 
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflexão
+Acredito que o maior desafio no universo das IA's, tanto no ambiente de trabalho quanto fora dele, é a responsabilidade ética relacionada à criação e ao uso dessas tecnologias. Como o conceito por trás das IA's generativas se baseia em aprendizado de máquina e aperfeiçoamento contínuo a partir dos dados inseridos, problemas como estereótipos e preconceitos podem ser amplificados. Além disso, há o risco do uso indevido dessas IA's para ganhos próprios em detrimento de outros.
+
+Segundo o pesquisador Felipe Muanis, doutor em Comunicação pela Universidade Federal de Minas Gerais (UFMG), o uso contemporâneo de IA's no contexto da imagem digital rompe com o referente real de uma imagem técnica (real ou imaginária).
+"Essa ruptura cria um receio e uma desconfiança do real no espectador de toda e qualquer imagem, seja analógica ou digital, o que gera uma pergunta implícita para esse sujeito: será isto real?", aponta Felipe.
+
+## Referências
+
+- Muanis, Felipe. “Imagens, inteligência artificial e a incontornabilidade da metacrítica”. RuMoRes, vol. 17, no 33, setembro de 2023, p. 35–57. DOI.org (Crossref), https://doi.org/10.11606/issn.1982-677X.rum.2023.210891.
+
+## Agradecimentos
+
+- Bootcamp Nexa e [DIO](https://www.linkedin.com/school/dio-makethechange/): Pela iniciativa deste projeto inovador.
+- [Venilton Falvo Jr](https://github.com/falvojr): Pelas aulas e todo conhecimento passado acerca do tema.
